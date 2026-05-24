@@ -1,0 +1,1 @@
+import"./cartStore.BTdtbgp3.js";const t=document.getElementById("ticket-modal"),o=document.getElementById("close-ticket"),c=document.getElementById("ticket-overlay"),e=()=>{t?.classList.remove("open"),window.location.href="/"};o?.addEventListener("click",e);c?.addEventListener("click",e);
